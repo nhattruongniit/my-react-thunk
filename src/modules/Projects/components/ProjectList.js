@@ -2,7 +2,6 @@ import React from "react";
 
 const Container = props => {
   const { shops } = props.projects;
-  console.log(props);
   const handleFetchShop = () => {
     props.fetchShops();
   };

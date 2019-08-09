@@ -20,28 +20,24 @@ const actHideLoading = () => ({
 });
 
 // axios interceptor
-export const axiosInstance = () => async dispatch => {
-  console.log("axios interceptor");
-
+export const axiosInstance = () => dispatch => {
   request.interceptors.request.use(
     config => {
-      console.log("axios interceptor");
-
-      dispatch(actShowLoading);
+      dispatch(actShowLoading());
       return config;
     },
     error => {
-      dispatch(actHideLoading);
+      dispatch(actHideLoading());
       return Promise.reject(error);
     }
   );
   request.interceptors.response.use(
     config => {
-      dispatch(actShowLoading);
+      dispatch(actHideLoading());
       return config;
     },
     error => {
-      dispatch(actHideLoading);
+      dispatch(actHideLoading());
       return Promise.reject(error);
     }
   );
