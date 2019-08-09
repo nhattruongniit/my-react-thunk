@@ -1,0 +1,309 @@
+{
+  "user": {
+    "id": 1239483822,
+    "name": "truong nguyen",
+    "level": "Standard"
+  },
+  "shops": [
+    {
+      "id": 1,
+      "slug": "the-ritz-carlton-tokyo",
+      "name": "The Ritz-Carlton, Tokyo ザ・リッツ・カールトン東京",
+      "phoneNumber": "+81 3-3423-8000",
+      "latitude": 35.6664397,
+      "longitude": 139.7293229,
+      "address": "〒107-6245 東京都港区赤坂９丁目７−１ Tokyo Midtown",
+      "region": "Tokyo",
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "slug": "family-mart-tokyo",
+      "name": "FamilyMart ファミリーマート 明大前北店",
+      "phoneNumber": "+81 3-5329-0208",
+      "latitude": 35.6684353,
+      "longitude": 139.6494817,
+      "address": "〒156-0043 東京都世田谷区松原２丁目４４−６",
+      "region": "Tokyo",
+      "status": "Open"
+    },
+    {
+      "id": 3,
+      "slug": "ninja-dojo-and-store-kyoto",
+      "name": "NINJA DOJO and STORE",
+      "phoneNumber": "+81 70-2289-2228",
+      "latitude": 35.0393434,
+      "longitude": 135.7292175,
+      "address": "〒600-8422 京都府京都市下京区下京区白楽天町528",
+      "region": "Kyoto",
+      "status": "Open"
+    },
+    {
+      "id": 4,
+      "slug": "ministop-kyoto-aquarium-mae-kyoto",
+      "name": "Ministop Kyoto Aquarium-mae ミニストップ 京都水族館前店",
+      "phoneNumber": "+81 75-371-8828",
+      "latitude": 34.9403642,
+      "longitude": 135.6759389,
+      "address": "〒600-8266 京都府京都市下京区木津屋町 上之町439番地1 大宮通 橋上る",
+      "region": "Kyoto",
+      "status": "Open"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "slug": "jam-heavy-metal-wireless-stereo-speaker",
+      "brand": "JAM",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81FED1p-sTL._SX522_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81e8905DlhL._SX522_.jpg"
+      ],
+      "name": "JAM Heavy Metal Wireless Stereo Speaker, Built-In Speakerphone, Powerful 20 Watt Speakers, Aluminum Body, Voice Prompts, Incredible Bass, For Audiophiles, Clean Treble, Massive Volume, HX-P920",
+      "currency": "$",
+      "listPrice": 72.99,
+      "salePrice": 42.99,
+      "ranking": 20,
+      "rating": 3.2,
+      "ratingCount": 3,
+      "commentsCount": 20
+    },
+    {
+      "id": 2,
+      "slug": "nintendo-switch-neon-red",
+      "brand": "Nintendo",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71ivrWiYkLL._AC_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71tdXgn9LzL._AC_.jpg"
+      ],
+      "name": "Nintendo Switch – Neon Red and Neon Blue Joy-Con",
+      "currency": "$",
+      "listPrice": 299,
+      "salePrice": 299,
+      "ranking": 10,
+      "rating": 4.2,
+      "ratingCount": 12,
+      "commentsCount": 120
+    },
+    {
+      "id": 3,
+      "slug": "uget-womens-sweater-casual",
+      "brand": "UGET",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71PxGRHfTbL._UY606_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61eO4kXmryL._UX679_.jpg"
+      ],
+      "name": "UGET Women's Sweater Casual Oversized Baggy Off-Shoulder Shirts Batwing Sleeve Pullover Shirts Tops",
+      "currency": "$",
+      "listPrice": 14.99,
+      "salePrice": 17.99,
+      "ranking": 150,
+      "rating": 4.3,
+      "ratingCount": 3500,
+      "commentsCount": 1020
+    },
+    {
+      "id": 4,
+      "slug": "exlura-womens-off-shoulder",
+      "brand": "ELURA",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61tq7ht%2BPtL._UX425_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71aSu0AWK4L._UX425_.jpg"
+      ],
+      "name": "Exlura Women's Off Shoulder Sweater Batwing Sleeve Loose Oversized Pullover Knit Jumper",
+      "currency": "$",
+      "listPrice": 26.98,
+      "salePrice": 26.98,
+      "ranking": 12,
+      "rating": 4.2,
+      "ratingCount": 1100,
+      "commentsCount": 42
+    },
+    {
+      "id": 5,
+      "slug": "exlura-womens-off-shoulder",
+      "brand": "ELURA",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61tq7ht%2BPtL._UX425_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71aSu0AWK4L._UX425_.jpg"
+      ],
+      "name": "Exlura Women's Off Shoulder Sweater Batwing Sleeve Loose Oversized Pullover Knit Jumper",
+      "currency": "$",
+      "listPrice": 26.98,
+      "salePrice": 26.98,
+      "ranking": 12,
+      "rating": 4.2,
+      "ratingCount": 1100,
+      "commentsCount": 42
+    },
+    {
+      "id": 6,
+      "slug": "exlura-womens-off-shoulder",
+      "brand": "ELURA",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61tq7ht%2BPtL._UX425_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71aSu0AWK4L._UX425_.jpg"
+      ],
+      "name": "Exlura Women's Off Shoulder Sweater Batwing Sleeve Loose Oversized Pullover Knit Jumper",
+      "currency": "$",
+      "listPrice": 26.98,
+      "salePrice": 26.98,
+      "ranking": 12,
+      "rating": 4.2,
+      "ratingCount": 1100,
+      "commentsCount": 42
+    },
+    {
+      "id": 7,
+      "slug": "exlura-womens-off-shoulder",
+      "brand": "ELURA",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61tq7ht%2BPtL._UX425_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71aSu0AWK4L._UX425_.jpg"
+      ],
+      "name": "Exlura Women's Off Shoulder Sweater Batwing Sleeve Loose Oversized Pullover Knit Jumper",
+      "currency": "$",
+      "listPrice": 26.98,
+      "salePrice": 26.98,
+      "ranking": 12,
+      "rating": 4.2,
+      "ratingCount": 1100,
+      "commentsCount": 42
+    }
+  ],
+  "staffs": [
+    {
+      "id": 1,
+      "featureImage": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "name": "Liam",
+      "bio": "Originally from Ottawa, Ontario Chelsea admires the abundance of activities and natural beauty of the West. A born professional who has been involved in the beauty industry since she was 14 years old. It was then that she discovered her love for the ever-changing trade.  Chelsea began her West Coast journey in Pender Island, working at a resort spa",
+      "price": "¥11,000"
+    },
+    {
+      "id": 2,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/71ItVH3U-4L._UX679_.jpg",
+      "name": "Elijah",
+      "bio": "Back home in Ontario, Jen decided she wanted to become a massage therapist shortly after finishing her Bachelor of Kinesiology at university which she had started for her love and interest in anatomy and physiology. ",
+      "price": "¥15,000"
+    },
+    {
+      "id": 3,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/61lTEFoQKVL._UX679_.jpg",
+      "name": "Charlotte",
+      "bio": "Natalie was born and raised in Hertford, England, and has been skiing from a tiny 18 months old. Ski instructing brought her to Whistler in 2008 and she has been calling Canada home ever since. ",
+      "price": "¥12,000"
+    },
+    {
+      "id": 4,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/51xy9EQgb5L._UY741_.jpg",
+      "name": "Sophia",
+      "bio": "Fiona Joined us at the Whistler Day Spa in September 2017 from the Central Coast of New South Wales, Australia. She completed her beauty education at Ella baché college of beauty therapy, ",
+      "price": "¥17,000"
+    },
+    {
+      "id": 5,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/7180bX7yg3L._SL1500_.jpg",
+      "name": "Logan",
+      "bio": "From a little town called Provence in the beautiful South of France to Whistler in 2017, Nathalie has come a long way to share her 6 years of beauty therapist experience with her guests at the Whistler Day Spa. She loves the title Beauty therapist as she believes visiting a beautician IS a type of therapy, ",
+      "price": "¥21,000"
+    },
+    {
+      "id": 6,
+      "featureImage": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "name": "Liam",
+      "bio": "Originally from Ottawa, Ontario Chelsea admires the abundance of activities and natural beauty of the West. A born professional who has been involved in the beauty industry since she was 14 years old. It was then that she discovered her love for the ever-changing trade.  Chelsea began her West Coast journey in Pender Island, working at a resort spa",
+      "price": "¥11,000"
+    },
+    {
+      "id": 7,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/71ItVH3U-4L._UX679_.jpg",
+      "name": "Elijah",
+      "bio": "Back home in Ontario, Jen decided she wanted to become a massage therapist shortly after finishing her Bachelor of Kinesiology at university which she had started for her love and interest in anatomy and physiology. ",
+      "price": "¥15,000"
+    },
+    {
+      "id": 8,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/61lTEFoQKVL._UX679_.jpg",
+      "name": "Charlotte",
+      "bio": "Natalie was born and raised in Hertford, England, and has been skiing from a tiny 18 months old. Ski instructing brought her to Whistler in 2008 and she has been calling Canada home ever since. ",
+      "price": "¥12,000"
+    },
+    {
+      "id": 9,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/51xy9EQgb5L._UY741_.jpg",
+      "name": "Sophia",
+      "bio": "Fiona Joined us at the Whistler Day Spa in September 2017 from the Central Coast of New South Wales, Australia. She completed her beauty education at Ella baché college of beauty therapy, ",
+      "price": "¥17,000"
+    },
+    {
+      "id": 10,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/7180bX7yg3L._SL1500_.jpg",
+      "name": "Logan",
+      "bio": "From a little town called Provence in the beautiful South of France to Whistler in 2017, Nathalie has come a long way to share her 6 years of beauty therapist experience with her guests at the Whistler Day Spa. She loves the title Beauty therapist as she believes visiting a beautician IS a type of therapy, ",
+      "price": "¥21,000"
+    }
+  ],
+  "staffDetail": [
+    {
+      "id": 1,
+      "featureImage": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "name": "Liam",
+      "price": "¥11,000"
+    },
+    {
+      "id": 2,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/71ItVH3U-4L._UX679_.jpg",
+      "name": "Elijah",
+      "price": "¥15,000"
+    },
+    {
+      "id": 3,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/61lTEFoQKVL._UX679_.jpg",
+      "name": "Charlotte",
+      "price": "¥12,000"
+    },
+    {
+      "id": 4,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/51xy9EQgb5L._UY741_.jpg",
+      "name": "Sophia",
+      "price": "¥17,000"
+    },
+    {
+      "id": 5,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/7180bX7yg3L._SL1500_.jpg",
+      "name": "Logan",
+      "price": "¥21,000"
+    },
+    {
+      "id": 6,
+      "featureImage": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "name": "Liam",
+      "price": "¥11,000"
+    },
+    {
+      "id": 7,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/71ItVH3U-4L._UX679_.jpg",
+      "name": "Elijah",
+      "price": "¥15,000"
+    },
+    {
+      "id": 8,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/61lTEFoQKVL._UX679_.jpg",
+      "name": "Charlotte",
+      "price": "¥12,000"
+    },
+    {
+      "id": 9,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/51xy9EQgb5L._UY741_.jpg",
+      "name": "Sophia",
+      "price": "¥17,000"
+    },
+    {
+      "id": 10,
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/I/7180bX7yg3L._SL1500_.jpg",
+      "name": "Logan",
+      "bio": "From a little town called Provence in the beautiful South of France to Whistler in 2017, Nathalie has come a long way to share her 6 years of beauty therapist experience with her guests at the Whistler Day Spa. She loves the title Beauty therapist as she believes visiting a beautician IS a type of therapy, ",
+      "price": "¥21,000"
+    }
+  ]
+}
